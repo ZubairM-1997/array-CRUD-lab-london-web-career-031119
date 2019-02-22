@@ -12,16 +12,11 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  array = ["volswagen", "bmw" , "mercedes", "rolls royce"]
   array.Push("ford")
-  
 end
 
 def add_element_to_start_of_array(array, element)
-  array = ["volswagen", "bmw" , "mercedes", "rolls royce"]
   array.Unshift("ford")
-  
-  
 end
 
 def remove_element_from_end_of_array(array)
