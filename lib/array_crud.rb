@@ -1,10 +1,13 @@
+array = ["volswagen", "bmw" , "mercedes", "rolls royce"]
+
+
 def create_an_empty_array
   array = []
   
 end
 
 def create_an_array
-  array = ["volswagen", "bmw" , "mercedes", "rolls royce"]
+  ["volswagen", "bmw" , "mercedes", "rolls royce"]
   
 end
 
